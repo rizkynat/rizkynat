@@ -1,16 +1,64 @@
-### Hi there 👋
+[![Header](https://github.com/rizkynat/rizkynat.github.io/blob/master/Screenshot%20from%202021-09-13%2020-01-18.png "Header")](https://martinheinz.dev/)
+# Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+My name is Rizky nathamael simbolon and I'm a Software Engineer 🖥️.
+- 🌱 I’m currently learning: Machine Learning, Mobile Development, Python Deep.
+- 💬 Ask me about: Computer Science, Something random.
+- 📫 How to reach me: rizky20si@mahasiswa.pcr.ac.id
+- ⚡ Fun fact:I Like Linux.
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=d6249f)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=d6249f)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=d6249f)
+![](https://img.shields.io/badge/Code-Java-d6249f?style=flat&logo=java&logoColor=white&color=d6249f)
+![](https://img.shields.io/badge/Editor-vscode-d6249f?style=flat&logo=visualstudiocode&logoColor=white&color=d6249f)
 
-<!--
-**rizkynat/rizkynat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## &#x1f4c8; GitHub Stats
 
-Here are some ideas to get you started:
+<a href="https://github.com/rizkynat/rizkynat.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkynat&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
+<a href="https://github.com/rizkynat/rizkynat.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkynat&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Rizky's GitHub Stats" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/rizkynat/tux-coffee-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizkynat&repo=coplink&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/rizkynat/Kas_Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rizkynat&repo=Kas_Application&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://www.instagram.com/rykinat4
+[2]: https://github.com/rizkynat
+
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+## 📕 Notes
+<!-- BLOG-POST-LIST:START -->
+- [Github Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+

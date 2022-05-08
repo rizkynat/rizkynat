@@ -13,7 +13,7 @@ My name is Rizky nathamael simbolon and I'm a Software Engineer 🖥️.
 ![](https://img.shields.io/badge/Editor-vscode-d6249f?style=flat&logo=visualstudiocode&logoColor=white&color=d6249f)
 
 ## 📫 My Resume
-This is my resume(https://martinheinz.dev/)
+This is my resume(https://resume.github.io/?rizkynat)
 
 ## &#x1f4c8; GitHub Stats
 

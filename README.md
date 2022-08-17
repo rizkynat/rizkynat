@@ -3,7 +3,7 @@
 My name is Rizky nathamael simbolon and I'm a Software Engineer 🖥️.
 - 🌱 I’m currently learning: Machine Learning, Mobile Development, Python Deep, Networking Programming.
 - 💬 Ask me about: Computer Science, Something random.
-- 📫 How to reach me: rizky20si@mahasiswa.pcr.ac.id
+- 📫 How to reach me: rizkynathamael@gmail.com
 - ⚡ Fun fact: I Like Linux.
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=d6249f)

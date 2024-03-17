@@ -1,5 +1,4 @@
 # Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Rizky nathamael simbolon and I'm a Software Engineer 🖥️.
 - 🌱 Hobby: Programming, Hacking.
 - 💬 Ask me about: Computer Science, Something random.
 - 📫 How to reach me: rizkynathamael@gmail.com

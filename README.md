@@ -1,4 +1,3 @@
-[![Header](https://github.com/rizkynat/rizkynat.github.io/blob/master/Screenshot%20from%202021-09-13%2020-01-18.png "Header")](https://martinheinz.dev/)
 # Hello, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Rizky nathamael simbolon and I'm a Software Engineer 🖥️.
 - 🌱 Hobby: Programming, Hacking.
